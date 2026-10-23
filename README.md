@@ -69,7 +69,7 @@ Move up because the basic sheet can no longer support a decision. Do not move up
 Classroom only. Every number is a bet written before market evidence. Not a report of a real company.
 
 - [Solo expert outreach](examples/solo-expert-outreach.md) — one person, one week, Basic sheets only.
-- [Subscription lunches](examples/subscription-lunches.md) — fuller L-frame picture for a team example.
+- [Subscription lunches](examples/subscription-lunches.md) — full matrix and Advanced scorecard as a classroom picture (not the basic L-frame).
 
 ## Where the pieces come from
 

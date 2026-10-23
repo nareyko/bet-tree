@@ -186,7 +186,7 @@ Write a row every week after you have looked at the facts. Before any evidence e
 Monday, about fifteen minutes, with the people who own the week's promises:
 
 1. Read last week's promises: who, what, and whether it was done.
-2. Mark the hours from last week that touch no branch of the tree. Those hours are orphans.
+2. Mark the hours from last week that touch no weekly promise and no category on this week's L-frame. Those hours are orphans. (After a lived week, the Advanced map can name the same orphans against branches.)
 3. Name exactly one constraint. If the room names three "main problems", none has been chosen.
 4. Name one leading lever for the week: a physical action, or a customer step, that this team can move in seven days. Revenue is a result. Do not manage the week by a revenue wish.
 5. Write the success number before the work starts.
@@ -311,7 +311,7 @@ Basic, in one day of writing and then one week of doing:
 
 1. Write one desired future three ways: as a forecast, as a goal, and as a bet. Keep only the bet. Note what is known and what is unknown.
 2. Choose the kind of future and the price of the bet.
-3. Build the L-shaped frame.
+3. Build the L-shaped frame. Early stage: three Business horizons (1 year, month, week) are enough; see §3.
 4. Read the draft against the six rules. Fix one weak spot, or mark it unknown.
 5. Write the week sheet and the first journal row.
 6. Do the week. On Friday, choose one outcome and write the next bet.

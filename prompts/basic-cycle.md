@@ -61,7 +61,7 @@ Apply only the change I choose, and add one line "Why we changed the draft". Do 
 ## 5. Week sheet and journal
 
 ```
-Study the main bet. If a causal map or a metric draft exists, take it into account. If it does not, rely only on the bet and the project materials.
+Study the main bet. Rely on the bet and the project materials. Use a causal map or a metric draft only after one lived Basic week.
 
 1. Build the week sheet:
 - the week's bet and the personal actions of the roles (Business, Product, Sales); for a solo founder, use work areas (Reach, Build, Contact) instead of other people's roles;
@@ -83,7 +83,7 @@ Show the drafts. After I confirm, save the week sheet and the journal. Do not ch
 ```
 Study the week sheet and the meeting checklist. Use the twenty-minute meeting sheet.
 
-Monday (about fifteen minutes). Ask me, one item at a time: last week's promises; orphan hours; exactly one constraint or leading lever for this week; success threshold; guardrail; date we decide to continue or change course. Wait for each answer. Do not invent numbers.
+Monday (about fifteen minutes). Ask me, one item at a time: last week's promises; orphan hours; exactly one constraint and one leading lever for this week; write success threshold; write guardrail; date we decide to continue or change course. Wait for each answer. Do not invent numbers.
 
 If this is week zero (no contacts or numbers yet), ask only: what blocked the first live contact. Wait. Do not invent a contact plan.
 

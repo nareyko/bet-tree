@@ -26,7 +26,7 @@ Do the actions you promised. Do not rewrite the threshold after you see early re
 
 ## Friday (about twenty minutes)
 
-Read facts before opinions: timestamps, logs, bank line, or a contact sheet. Mark exactly one outcome: held, failed, guardrail broke, or sample not there yet. Add one journal row: what you learned, what surprised you, and the shared decision. Draft the next bet before you leave.
+Read facts before opinions: logs, bank line, or a contact sheet, notebook, or call notes. Mark exactly one outcome: held, failed, guardrail broke, or sample not there yet. Add one journal row: what you learned, what surprised you, and the shared decision. Draft the next bet before you leave.
 
 ## What not to do in week one
 

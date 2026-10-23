@@ -2,8 +2,6 @@
 
 3 to 5 measures that change this week's actions. Read facts before causes.
 
-Month aim:
-
-| Measure | Role (leading / lagging / guardrail) | Week threshold | Fact | Status (on plan / off plan / still collecting) | Owner |
+| Measure | Role (leading / lagging / guardrail) | Week threshold | Fact | Status (on plan / off plan / still collecting data) | Owner |
 | --- | --- | --- | --- | --- | --- |
 | | | | | | |

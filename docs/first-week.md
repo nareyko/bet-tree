@@ -8,7 +8,7 @@ One page for a founder who has not lived a Bet Tree week yet. Read [the method](
 2. Keep [08-meeting](../templates/08-meeting.md) open for Monday and Friday.
 3. On the bet sheet, write one desired future three ways (forecast, goal, bet). Keep only the bet. Name what is known and what is unknown.
 4. Choose the kind of future, or write **research project / value check**. Write what you put in and what you can lose.
-5. Build a short L-frame. At the very start, three horizons are enough: 1 year, month, and week. Leave the rest **unknown** if you have no evidence.
+5. Build a short L-frame. At the very start, three Business horizons are enough: 1 year, month, and week. Leave Quarter and 3–5 years as unknown until you have something to write (a qualitative picture counts). Write the word unknown in the cell.
 6. On the week sheet, write the week's bet and personal promises (or Reach / Build / Contact if you work alone).
 7. Add sample `n` out of `N`, success threshold, guardrail, and the hour you will look at the result. In the teaching rhythm that hour is Friday at 18:00.
 

@@ -10,11 +10,11 @@ A method for working with an uncertain future: from a bet on three to five years
 
 **Bet.** A measurable claim about an uncertain future. The founder chooses actions under that claim. A bet can fail. That failure can hurt. It is still more honest than treating a wish as a forecast, or an unknown as an established fact.
 
-A bet is not the same as an experiment. An experiment answers how the world works. A bet ties the check to personal action, a threshold, a loss limit, and a Friday decision: continue or change course. The Friday ritual belongs to the weekly check; far-horizon bets are still bets, restated nearer until a week can test them.
+A bet is not the same as an experiment. An experiment answers how the world works. A bet ties the check to personal action, a threshold, a loss limit, and a Friday decision: continue or change course. That Friday look at the facts belongs to the weekly check. A bet aimed years ahead is still a bet: you restate it as nearer checks until a single week can test one of them.
 
 At the very first step, a measurable bet can be a plain event: for example, get a yes from at least 2 people out of 5 contacts. Revenue and percentages are not required when you have no customers yet.
 
-A bet for the founder names a customer behavior you can touch this week: a viewing, a request, a call, a second step, a repeat payment. It rests on this week's facts and on the price of being wrong.
+A bet for the founder names a customer behavior you can observe this week: someone looks at the offer, sends a request, takes a call, takes a second step, or pays again. It rests on this week's facts and on the price of being wrong.
 
 A number made for an investor often names scale: market size, all-time downloads, total turnover, a large registration count. That number can look good on a slide. On Monday morning it does not tell the team what to do.
 
@@ -71,8 +71,8 @@ The future is not only revenue. The list is not closed. If a bet needs another c
 
 You do not fill every cell. There are five horizons and seven categories, which is thirty-five cells. The basic level uses an L-shaped frame instead:
 
-- one line through **Business**, from 3–5 years down to this week;
-- a weekly cut for two or three other categories that the week actually moves, often Customer, Product, and Founder;
+- one line through **Business**, from the farthest horizon you actually wrote down to this week (1 year early; 3–5 years when that cell is open);
+- a weekly cut for two or three other categories that the week actually moves, often Customer, Product, and Founder (early stage: write those on the week sheet even when the far Business cells stay **unknown**);
 - one link: how this week's result moves the month's Business result.
 
 For the 3–5 year cell, a qualitative picture is allowed when exact numbers do not exist.
@@ -99,7 +99,7 @@ The system turns an uncertain future into one checkable cycle. The full structur
 
 ### Aim of the cycle
 
-Aim here is the direction of this cycle, not a new word for Goal from section 1. Write the aim in words. Beside it, write one, two, or three measurable results. Mark each result as a promise or as a dream. A promise is a result you intend to reach. A dream is set past what you can do now. Each number names the way it will be reached. One aim keeps the priority. Three numbers are enough. Past that, the easy numbers get reported and the bottleneck stays put.
+The **Aim** is the written direction for this cycle alone. It is not the **Goal** from section 1 (a desired state you want someday). Write the aim in words. Beside it, write one, two, or three measurable results. Mark each result as a promise or as a dream. A promise is a result you intend to reach. A dream is set past what you can do now. Each number says how you will try to reach it. One aim keeps the priority. Three numbers are enough. Past that, teams report the easy numbers and the hard step that blocks progress stays untouched.
 
 Basic cycle:
 
@@ -108,13 +108,13 @@ Basic cycle:
 3. Threshold and guardrail.
 4. Decision and the next bet.
 
-In one line: bet, then action, then signal, then decision, then knowledge, then a new bet.
+In one line: bet, then action, then signal, then decision, then what you learned, then a new bet.
 
 Add later, and only when the basic sheet is not enough:
 
 1. All horizons and categories.
 2. A full causal map.
-3. One bottleneck and one main metric.
+3. One hard step that blocks progress, and one main metric.
 4. The cost of attention.
 
 ### Action is not the signal
@@ -127,11 +127,11 @@ Do not confuse your effort with the market's reply.
 
 The signal is called early for two reasons. Money often comes weeks later, after a trial, an invoice, and a payment. And if nobody replies, you can change the offer on Friday of the first week instead of waiting for the end of the month.
 
-Between the action and the money sits a chain of delays. To get a reply by the end of this cycle, move the first lever at the start of the week. A late start pushes the outcome into the next cycle.
+Between the action and the money sits a chain of delays. To get a reply by the end of this cycle, take the first team action at the start of the week. A late start pushes the outcome into the next cycle.
 
 ### How strong the evidence is
 
-Evidence has three steps. Someone said it. Someone did it. Someone paid. Paid is stronger than did. Did is stronger than said. A showcase number is for the slide or the story. A steering number changes this week's decision. Keep a showcase number paired with a steering number.
+Evidence has three steps. Someone said it. Someone did it. Someone paid. Paid is stronger than did. Did is stronger than said. A showcase number is made only for a slide or a story. A steering number is one that changes this week's decision. Keep a showcase number paired with a steering number.
 
 ### Threshold and guardrail
 
@@ -149,12 +149,12 @@ At the end of the week the founder chooses one outcome from the facts. A confirm
 
 | What happened | Decision for next week |
 | --- | --- |
-| The bet held. The threshold was met and the guardrail is intact. | Scale: keep the result, or move to the next step, such as payment. |
+| The bet held. The threshold was met and the guardrail is intact. | Keep the result, or move to the next step, such as payment. |
 | The bet failed. The threshold was missed and the guardrail is intact. | Change the claim: offer, audience, or price. |
 | The guardrail broke. The form failed, the budget was overspent, or another safety line was crossed. | Stop and repair before any new test. |
 | The sample is not there yet. You did not finish the planned number of contacts. | Continue without panic. Finish the same sample. Do not change the product because the sample is small. |
 
-Small numbers follow a simple rule. Three to five talks often show the main understanding barriers in interviews. A conversion percentage needs at least 20 to 30 target contacts per step. At the first step of the path to a paying customer, plan about 1.5 to 2 times more contacts than the minimum you need.
+Small numbers follow a simple rule. Three to five talks often show the main understanding barriers in interviews. To trust a percentage of contacts who take the next step, you need at least 20 to 30 target contacts per step. At the first step toward a paying customer, plan about 1.5 to 2 times more contacts than the minimum you need.
 
 The team discusses facts and chooses. It does not look for someone to blame. A failed bet can save months of work on a product nobody wants. A held bet shows where to grow.
 
@@ -186,7 +186,7 @@ Write a row every week after you have looked at the facts. Before any evidence e
 Monday, about fifteen minutes, with the people who own the week's promises:
 
 1. Read last week's promises: who, what, and whether it was done.
-2. Mark the hours from last week that touch no weekly promise and no category on this week's L-frame. Those hours are orphans. (After a lived week, the Advanced map can name the same orphans against branches.)
+2. Mark the hours from last week that touched no weekly promise and no category on **last week's** L-frame. Those hours are orphans. (After a lived week, the Advanced map can name the same orphans against branches.)
 3. Name exactly one constraint. If the room names three "main problems", none has been chosen.
 4. Name one leading lever for the week: a physical action, or a customer step, that this team can move in seven days. Revenue is a result. Do not manage the week by a revenue wish.
 5. Write the success number before the work starts.

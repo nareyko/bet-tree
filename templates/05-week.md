@@ -8,9 +8,9 @@ Contract for seven days. Write every line before the work starts.
 | --- | --- | --- |
 | | | |
 
-## Hours with no branch
+## Orphan hours
 
-Hours from last week that touch no weekly promise and no category on this week's L-frame. Mark them as orphans:
+Hours from last week that touched no weekly promise and no category on last week's L-frame. Mark them as orphans:
 
 ## Bet of the week
 

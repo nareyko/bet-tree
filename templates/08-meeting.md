@@ -5,7 +5,7 @@ Does not replace the week sheet or the journal. Use it to keep Monday and Friday
 ## Monday (15 min)
 
 - [ ] Past promises: who, what, done or not
-- [ ] Orphan hours: hours that touch no weekly promise and no L-frame category
+- [ ] Orphan hours: last week's hours with no weekly promise and no category on last week's L-frame
 - [ ] Exactly one constraint
 - [ ] One leading lever for the week
 - [ ] Success threshold, written before the work

@@ -26,7 +26,7 @@ Link to the month: if 2 of 5 reply with a next step or a clear refusal, the mont
 
 **Actions.** Reach: send 5 messages. Build: keep the offer to one sentence. Contact: answer each reply the same day.
 
-**Sample and threshold.** `n` = 5 out of `N` = 5. Win: at least 2 replies that are not silence.
+**Sample and threshold.** `n` = 5 out of `N` = 5. Win: at least 2 replies with a next step or a clear refusal (not silence).
 
 **Guardrail.** Spend 0 on ads. Do not invent a price in the message unless the contact asks. Look on Friday at 18:00.
 

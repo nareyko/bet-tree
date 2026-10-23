@@ -47,7 +47,7 @@ A paid subscription is weeks away: a trial week, an invoice, a payment. In this 
 
 ## A journal row from the teaching story
 
-Week 1 starts with no customer behavior yet. The result is unknown. Arguments about architecture, before any customer has acted, are guesses. The decision is to run 100 showings by Thursday and read the scorecard on Friday.
+Week 1 starts with no customer behavior yet. The result cell says there is no data yet. Arguments about architecture, before any customer has acted, are guesses. The decision is to run 100 showings by Thursday and on Friday read the week-sheet facts and mark one of the four outcomes.
 
 A later teaching row: the bet was that a call within 15 minutes would yield at least 3 trials from 5 requests. The fact was 0 trials from 5 requests, because the calls went out after 4 hours. What was learned in the story: the customer cools within 30 minutes (classroom invention), so speed of contact is the constraint. The decision: connect the bot within 2 hours and call within 5 minutes.
 

@@ -38,15 +38,13 @@ Spend limit:
 
 Breakage limit:
 
-Time limit (for example, how fast you answer):
-
 When we look: Friday, 18:00
 
 Date we decide to continue or to change course:
 
 ## Friday
 
-Outcome (exactly one): held / failed / guardrail broke / still collecting
+Outcome (exactly one): held / failed / guardrail broke / sample not there yet
 
 Fact:
 

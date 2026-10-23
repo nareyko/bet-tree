@@ -28,6 +28,8 @@ What I can lose:
 
 ## L-shaped frame
 
+At the start, three Business horizons are enough: 1 year, Month, Week. Leave Quarter and 3–5 years as **unknown** until you have something to write (a qualitative picture counts).
+
 ### Business, from far to near
 
 - 3–5 years:

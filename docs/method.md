@@ -8,9 +8,9 @@ A method for working with an uncertain future: from a bet on three to five years
 
 **Goal.** A state you want to reach. A goal does not claim that this result is the most likely one.
 
-**Bet.** A measurable claim about an uncertain future, for which the founder chooses actions. A bet can fail. That failure can hurt. It is still more honest than calling a wish a forecast, or calling an unknown an established fact.
+**Bet.** A measurable claim about an uncertain future. The founder chooses actions under that claim. A bet can fail. That failure can hurt. It is still more honest than treating a wish as a forecast, or an unknown as an established fact.
 
-A bet is not the same as an experiment. An experiment answers how the world works. A bet ties the check to personal action, a threshold, a loss limit, and a Friday decision on the course.
+A bet is not the same as an experiment. An experiment answers how the world works. A bet ties the check to personal action, a threshold, a loss limit, and a Friday decision: continue or change course. The Friday ritual belongs to the weekly check; far-horizon bets are still bets, restated nearer until a week can test them.
 
 At the very first step, a measurable bet can be a plain event: for example, get a yes from at least 2 people out of 5 contacts. Revenue and percentages are not required when you have no customers yet.
 
@@ -49,11 +49,11 @@ A far bet is not cut into pieces of a plan. It is restated as nearer bets that c
 | Month | What must change in the next cycle? |
 | Week | What can be done and checked right now? |
 
-The order is 3–5 years, then year, then quarter, then month, then week. The far horizon does not predict the future. It keeps short actions from losing their direction.
+When the full Business spine is in use, the order is 3–5 years, then year, then quarter, then month, then week. The far horizon does not predict the future. It keeps short actions from losing their direction.
 
-Early stage may keep three horizons: Week, Month, and a 1 year direction. Add Quarter and 3–5 years when there is data to fill them. Until then, leave those cells as unknown or skip them.
+Early stage may keep three horizons: Week, Month, and a 1 year direction. That early L-frame is enough: Business on year, month, and week. Add Quarter and 3–5 years when you have something to write there — a qualitative picture counts; exact numbers are not required. Until then, leave those cells as **unknown**.
 
-A week checks the three-to-five-year bet. It does not divide that bet by a calculator.
+A week checks the farthest Business bet you actually wrote (1 year early; 3–5 years when that cell is open). It does not divide that bet by a calculator.
 
 ## 4. Seven categories
 
@@ -99,7 +99,7 @@ The system turns an uncertain future into one checkable cycle. The full structur
 
 ### Aim of the cycle
 
-Write the aim in words. It sets the direction. Beside it, write one, two, or three measurable results. Mark each result as a promise or as a dream. A promise is a result you intend to reach. A dream is set past what you can do now. Each number names the way it will be reached. One aim keeps the priority. Three numbers are enough. Past that, the easy numbers get reported and the bottleneck stays put.
+Aim here is the direction of this cycle, not a new word for Goal from section 1. Write the aim in words. Beside it, write one, two, or three measurable results. Mark each result as a promise or as a dream. A promise is a result you intend to reach. A dream is set past what you can do now. Each number names the way it will be reached. One aim keeps the priority. Three numbers are enough. Past that, the easy numbers get reported and the bottleneck stays put.
 
 Basic cycle:
 
@@ -131,7 +131,7 @@ Between the action and the money sits a chain of delays. To get a reply by the e
 
 ### How strong the evidence is
 
-Evidence has three steps. Someone said it. Someone did it. Someone paid. Paid is stronger than did. Did is stronger than said. A showcase number is for the telling. A steering number changes this week's decision. Keep a showcase number paired with a steering number.
+Evidence has three steps. Someone said it. Someone did it. Someone paid. Paid is stronger than did. Did is stronger than said. A showcase number is for the slide or the story. A steering number changes this week's decision. Keep a showcase number paired with a steering number.
 
 ### Threshold and guardrail
 
@@ -154,7 +154,7 @@ At the end of the week the founder chooses one outcome from the facts. A confirm
 | The guardrail broke. The form failed, the budget was overspent, or another safety line was crossed. | Stop and repair before any new test. |
 | The sample is not there yet. You did not finish the planned number of contacts. | Continue without panic. Finish the same sample. Do not change the product because the sample is small. |
 
-Small numbers follow a simple rule. Three to five talks often show the main understanding barriers in interviews. A conversion percentage needs at least 20 to 30 target contacts per step. At the top funnel link, leave about 1.5 to 2 times slack.
+Small numbers follow a simple rule. Three to five talks often show the main understanding barriers in interviews. A conversion percentage needs at least 20 to 30 target contacts per step. At the first step of the path to a paying customer, plan about 1.5 to 2 times more contacts than the minimum you need.
 
 The team discusses facts and chooses. It does not look for someone to blame. A failed bet can save months of work on a product nobody wants. A held bet shows where to grow.
 

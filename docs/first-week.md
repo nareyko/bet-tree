@@ -10,13 +10,13 @@ One page for a founder who has not lived a Bet Tree week yet. Read [the method](
 4. Choose the kind of future, or write **research project / value check**. Write what you put in and what you can lose.
 5. Build a short L-frame. At the very start, three horizons are enough: 1 year, month, and week. Leave the rest **unknown** if you have no evidence.
 6. On the week sheet, write the week's bet and personal promises (or Reach / Build / Contact if you work alone).
-7. Add sample `n` out of `N`, success threshold, guardrail, and the hour you will look at the result.
+7. Add sample `n` out of `N`, success threshold, guardrail, and the hour you will look at the result. In the teaching rhythm that hour is Friday at 18:00.
 
 Do not invent a number to fill a blank. Write **unknown**.
 
 ## Monday (about fifteen minutes)
 
-Use the meeting checklist. Read last week's promises if you have them. Mark orphan hours. Name exactly one constraint or one leading lever for this week. Confirm threshold and guardrail. Write the date when you will decide to continue or change course.
+Use the meeting checklist. Read last week's promises if you have them. Mark orphan hours. Name exactly one constraint and one leading lever for this week. Write the success threshold and the guardrail before the work starts. Write the date when you will decide to continue or change course.
 
 Week zero: if you have no contacts and no numbers yet, spend the meeting on one barrier — what blocked the first live contact.
 
@@ -26,7 +26,7 @@ Do the actions you promised. Do not rewrite the threshold after you see early re
 
 ## Friday (about twenty minutes)
 
-Read facts before opinions: timestamps, logs, bank line, or a contact sheet. Mark exactly one outcome: held, failed, guardrail broke, or still collecting. Add one journal row: what you learned, what surprised you, and the shared decision. Draft the next bet before you leave.
+Read facts before opinions: timestamps, logs, bank line, or a contact sheet. Mark exactly one outcome: held, failed, guardrail broke, or sample not there yet. Add one journal row: what you learned, what surprised you, and the shared decision. Draft the next bet before you leave.
 
 ## What not to do in week one
 

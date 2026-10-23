@@ -19,6 +19,6 @@ Does not replace the week sheet or the journal. Use it to keep Monday and Friday
 ## Friday (20 min)
 
 - [ ] Facts before opinions (logs, bank, or contact sheet / notebook / call notes)
-- [ ] Exactly one of four outcomes: held / failed / guardrail broke / still collecting
+- [ ] Exactly one of four outcomes: held / failed / guardrail broke / sample not there yet
 - [ ] Journal row: what we learned + what surprised us
 - [ ] Draft next bet before leaving

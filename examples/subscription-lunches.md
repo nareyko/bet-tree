@@ -4,11 +4,13 @@ This is a classroom business: hot lunches delivered by subscription to offices. 
 
 The funnel in the example starts from 100 showings and a price of 4,500 in the local currency per week. Currency here is the one used in the original teaching deck.
 
-## L-shaped frame, not all 35 cells
+## Basic L-frame (reminder)
 
-The basic level does not fill the whole matrix. The Business row links 3–5 years to this week. The Week column collects the action: Customer, Product, and Founder.
+The basic level does not fill the whole matrix. For a lived first week, prefer the three-horizon L-frame in [solo-expert-outreach](solo-expert-outreach.md). The Business row links the farthest written horizon to this week. The Week column collects the action: Customer, Product, and Founder.
 
-## Full matrix, as a picture of the bets
+## Full matrix (Advanced illustration — not the basic L-frame)
+
+Illustration only. Far cells here are a classroom picture of bets before experience, not thresholds for a real kitchen. Early-stage practice still leaves empty far cells as **unknown** unless you write a qualitative picture.
 
 | Category | 3–5 years | 1 year | Quarter | Month | Week |
 | --- | --- | --- | --- | --- | --- |
@@ -32,7 +34,7 @@ The basic level does not fill the whole matrix. The Business row links 3–5 yea
 
 ## Why the signal is early in this example
 
-A paid subscription is weeks away: a trial week, an invoice, a payment. Interest can show in the first 48–72 hours. If 100 showings produce 0 requests, the offer missed the pain, and the founder can change it on Friday instead of waiting for the month to end.
+A paid subscription is weeks away: a trial week, an invoice, a payment. In this classroom story, interest can show in the first 48–72 hours (invented timing, not a method rule). If 100 showings produce 0 requests, the offer missed the pain, and the founder can change it on Friday instead of waiting for the month to end.
 
 ## Four outcomes, with this week's lines
 
@@ -41,25 +43,25 @@ A paid subscription is weeks away: a trial week, an invoice, a payment. Interest
 | Bet held | At least 5 requests, guardrail intact | Scale: keep the result, or move toward payment |
 | Bet failed | Fewer than 5 requests, guardrail intact | Change the offer, the audience, or the price |
 | Guardrail broke | Form failures above 0, or spend over the limit | Stop and repair |
-| Still collecting | For example, 30 of 100 showings done | Finish the showings. Do not change the offer yet |
+| Sample not there yet | For example, 30 of 100 showings done | Finish the showings. Do not change the offer yet |
 
 ## A journal row from the teaching story
 
 Week 1 starts with no customer behavior yet. The result is unknown. Arguments about architecture, before any customer has acted, are guesses. The decision is to run 100 showings by Thursday and read the scorecard on Friday.
 
-A later teaching row: the bet was that a call within 15 minutes would yield at least 3 trials from 5 requests. The fact was 0 trials from 5 requests, because the calls went out after 4 hours. What was learned: the customer cools within 30 minutes, so speed of contact is the constraint. The decision: connect the bot within 2 hours and call within 5 minutes.
+A later teaching row: the bet was that a call within 15 minutes would yield at least 3 trials from 5 requests. The fact was 0 trials from 5 requests, because the calls went out after 4 hours. What was learned in the story: the customer cools within 30 minutes (classroom invention), so speed of contact is the constraint. The decision: connect the bot within 2 hours and call within 5 minutes.
 
 That second row is still a classroom story, not a measured study.
 
-## Scorecard shape
+## Scorecard shape (Advanced illustration)
 
-Month aim in the example: at least 8 first payments to continue, without making the service worse.
+Statuses are only: on plan, off plan, or still collecting data. Month aim in the example: at least 8 first payments to continue, without making the service worse.
 
 | Measure | Role | Week threshold | Fact at the start | Status |
 | --- | --- | --- | --- | --- |
-| Requests from the page | Leading | At least 5 from 100 showings | 0 from 100 | Still collecting |
+| Requests from the page | Leading | At least 5 from 100 showings | 0 from 100 | Still collecting data |
 | Form and bot failures | Guardrail | Strictly 0 | 0 | On plan |
-| Agreed trials | Leading | At least 3 from 5 requests | 0 from 5 | Waiting for requests |
-| Continuation payments | Lagging | At least 8 by month end | 0 from 8 | Waiting for trials |
+| Agreed trials | Leading | At least 3 from 5 requests | 0 from 5 | Still collecting data |
+| Continuation payments | Lagging | At least 8 by month end | 0 from 8 | Still collecting data |
 
 Read the facts before anyone explains them. Keep only the rows that change this week's actions.

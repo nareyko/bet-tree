@@ -49,7 +49,7 @@ After I confirm, save the frame in the bet document under "L-shaped frame". Do n
 ## 4. Find one weak spot
 
 ```
-Study the bet document and the six rules: honest uncertainty; horizons are checks; facts beat the plan; seven categories form a net; roles meet on the week; you manage confidence, not a task list.
+Study the bet document and the six rules: honest uncertainty; horizons are checks; facts outweigh the plan; seven categories form a net; roles meet on the week; you manage confidence, not a task list.
 
 Find at most three places where the draft presents an unknown as a fact, does not link the week to the month, or does not explain an arrow.
 

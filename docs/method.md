@@ -83,7 +83,7 @@ For the 3–5 year cell, a qualitative picture is allowed when exact numbers do 
 
 **Horizons are checks.** The week tests the far bet. It is not an arithmetic slice of the far number.
 
-**Facts beat the plan.** Checked evidence changes the tree. It does not force you to defend the old idea.
+**Facts outweigh the plan.** Checked evidence changes the tree. It does not force you to defend the old idea.
 
 **Seven categories form a net.** Business, customer, product, market, economics, team, and founder move each other.
 

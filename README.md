@@ -6,16 +6,28 @@ A founder chooses a direction before the business has proved itself. A precise p
 
 The Bet Tree turns that claim into one checkable week, and, when one week is no longer enough, into a tree of linked claims.
 
-Author: Vadim Nareyko.
+Author: Vadim Nareyko (vadim@nareyko.com, github.com/nareyko).
 
 ## Start here
 
-1. Read [the method](docs/method.md).
-2. Copy the blank sheets in [templates/](templates/).
-3. Fill one week. Leave unknown things written as **unknown**.
-4. On Friday, record one of four outcomes and write the next bet.
+1. Skim [the method](docs/method.md), sections 1–8 (basic cycle). Leave advanced sections for later.
+2. Read [First week](docs/first-week.md).
+3. Copy the **Basic** blanks: [01-bet](templates/01-bet.md), [05-week](templates/05-week.md), [07-journal](templates/07-journal.md). Keep [08-meeting](templates/08-meeting.md) open for Monday and Friday.
+4. Fill one week. Leave unknown things written as **unknown**.
+5. On Friday, record one of four outcomes and write the next bet.
+
+Do not open the Advanced sheets (02–04, 06) until one basic week has been lived.
 
 If you work with an assistant that follows written instructions, the prompts in [prompts/](prompts/) ask the questions and wait for your answers. They do not choose the numbers for you.
+
+## What this method is not
+
+Short version below. Full name page: [docs/name.md](docs/name.md).
+
+- Not a poker betting tree (bet sizes in solvers).
+- Not gambling or sports betting.
+- Not a classical decision tree with known probabilities already filled in.
+- Not Shape Up's "bet": a decision to give a team a fixed build cycle.
 
 ## What you leave with after one week
 
@@ -24,6 +36,24 @@ If you work with an assistant that follows written instructions, the prompts in 
 - A success line and a safety line, both written in advance.
 - One decision: scale, change the claim, stop and repair, or gather more of the same evidence.
 - One line in a journal, so next month you still know what was learned.
+
+## Templates
+
+Blank sheets in [templates/](templates/).
+
+**Basic** (first week):
+
+1. [01-bet.md](templates/01-bet.md): first bet and L-frame
+2. [05-week.md](templates/05-week.md): week sheet
+3. [07-journal.md](templates/07-journal.md): bet journal
+4. [08-meeting.md](templates/08-meeting.md): twenty-minute meeting checklist
+
+**Advanced** (after one lived week):
+
+5. [02-causality.md](templates/02-causality.md): causal map
+6. [03-focus.md](templates/03-focus.md): one constraint and what not to do
+7. [04-passport.md](templates/04-passport.md): metric passport before the scorecard
+8. [06-board.md](templates/06-board.md): weekly scorecard
 
 ## Two levels
 
@@ -34,9 +64,12 @@ If you work with an assistant that follows written instructions, the prompts in 
 
 Move up because the basic sheet can no longer support a decision. Do not move up because the advanced sheets look more serious.
 
-## Teaching example
+## Teaching examples
 
-[Subscription lunches](examples/subscription-lunches.md) is a classroom example. Every number there is a bet written before any market evidence. It is not a report of a real company.
+Classroom only. Every number is a bet written before market evidence. Not a report of a real company.
+
+- [Solo expert outreach](examples/solo-expert-outreach.md) — one person, one week, Basic sheets only.
+- [Subscription lunches](examples/subscription-lunches.md) — fuller L-frame picture for a team example.
 
 ## Where the pieces come from
 

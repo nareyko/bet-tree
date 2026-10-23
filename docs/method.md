@@ -10,6 +10,8 @@ A method for working with an uncertain future: from a bet on three to five years
 
 **Bet.** A measurable claim about an uncertain future, for which the founder chooses actions. A bet can fail. That failure can hurt. It is still more honest than calling a wish a forecast, or calling an unknown an established fact.
 
+A bet is not the same as an experiment. An experiment answers how the world works. A bet ties the check to personal action, a threshold, a loss limit, and a Friday decision on the course.
+
 At the very first step, a measurable bet can be a plain event: for example, get a yes from at least 2 people out of 5 contacts. Revenue and percentages are not required when you have no customers yet.
 
 A bet for the founder names a customer behavior you can touch this week: a viewing, a request, a call, a second step, a repeat payment. It rests on this week's facts and on the price of being wrong.
@@ -49,6 +51,8 @@ A far bet is not cut into pieces of a plan. It is restated as nearer bets that c
 
 The order is 3–5 years, then year, then quarter, then month, then week. The far horizon does not predict the future. It keeps short actions from losing their direction.
 
+Early stage may keep three horizons: Week, Month, and a 1 year direction. Add Quarter and 3–5 years when there is data to fill them. Until then, leave those cells as unknown or skip them.
+
 A week checks the three-to-five-year bet. It does not divide that bet by a calculator.
 
 ## 4. Seven categories
@@ -83,7 +87,7 @@ For the 3–5 year cell, a qualitative picture is allowed when exact numbers do 
 
 **Seven categories form a net.** Business, customer, product, market, economics, team, and founder move each other.
 
-**Roles meet on the week.** On a typical week, Business creates reach, the person who builds the product keeps it from breaking, and Sales turns interest into a contact. The names of the roles can change. The split of promises cannot: each promise belongs to a person.
+**Roles meet on the week.** On a typical week, Business creates reach, the person who builds the product keeps it from breaking, and Sales turns interest into a contact. The names of the roles can change. The split of promises cannot: each promise belongs to a person. A solo founder writes their own work area (Reach, Build, Contact) in Role or Owner. Attention cost is counted in their own minutes.
 
 **You manage confidence, not a task list.** The object of management is how sure you are that the bet will hold, and what evidence would change that.
 
@@ -123,6 +127,8 @@ Do not confuse your effort with the market's reply.
 
 The signal is called early for two reasons. Money often comes weeks later, after a trial, an invoice, and a payment. And if nobody replies, you can change the offer on Friday of the first week instead of waiting for the end of the month.
 
+Between the action and the money sits a chain of delays. To get a reply by the end of this cycle, move the first lever at the start of the week. A late start pushes the outcome into the next cycle.
+
 ### How strong the evidence is
 
 Evidence has three steps. Someone said it. Someone did it. Someone paid. Paid is stronger than did. Did is stronger than said. A showcase number is for the telling. A steering number changes this week's decision. Keep a showcase number paired with a steering number.
@@ -148,6 +154,8 @@ At the end of the week the founder chooses one outcome from the facts. A confirm
 | The guardrail broke. The form failed, the budget was overspent, or another safety line was crossed. | Stop and repair before any new test. |
 | The sample is not there yet. You did not finish the planned number of contacts. | Continue without panic. Finish the same sample. Do not change the product because the sample is small. |
 
+Small numbers follow a simple rule. Three to five talks often show the main understanding barriers in interviews. A conversion percentage needs at least 20 to 30 target contacts per step. At the top funnel link, leave about 1.5 to 2 times slack.
+
 The team discusses facts and chooses. It does not look for someone to blame. A failed bet can save months of work on a product nobody wants. A held bet shows where to grow.
 
 ## 7. Two sheets you keep
@@ -157,7 +165,7 @@ The team discusses facts and chooses. It does not look for someone to blame. A f
 The week sheet is the team's contract for seven days. Before the work, write:
 
 1. **The week's bet.** What you are checking and what reply you expect.
-2. **Role actions.** Personal promises for seven days.
+2. **Role actions.** Personal promises for seven days. A solo founder writes their own work areas (Reach, Build, Contact) instead of other people's roles.
 3. **Sample and threshold.** How many contacts (`n` out of `N`) and what number counts as a win.
 4. **Guardrail and deadline.** The limit of risk, and the time you will look at the result. In the teaching rhythm that time is Friday at 18:00.
 
@@ -167,7 +175,7 @@ On Friday you mark one of the four outcomes, write what you learned, and name th
 
 The journal is the business's memory of what it actually learned. It protects the team from fooling itself later.
 
-Each row has: the date, the bet you checked, the actual result, what you learned, and the shared decision.
+Each row has: the date, the bet you checked, the actual result, what you learned, what surprised us, and the shared decision.
 
 A number records the week's fact. The sentence "what we learned" is what stops the team from repeating the same mistake. A threshold written before the experience also stops people from rewriting history: the roles can look at the number and the decision, not at each other's excuses.
 
@@ -185,11 +193,15 @@ Monday, about fifteen minutes, with the people who own the week's promises:
 6. Write the guardrail.
 7. Write the date on which you will decide to continue or to change course.
 
+Week zero is the week before measurements exist. If there are no contacts or numbers yet, the twenty-minute meeting reviews one barrier: what blocked the first live contact.
+
+A solo person runs the twenty-minute meeting with a mentor, a conversation partner, or a written checklist.
+
 Friday, about twenty minutes:
 
-1. Read the facts from records: timestamps, logs, the bank line. Do not start with opinions.
+1. Read the facts from records. Prefer logs and the bank line when they exist. At the start, a contact sheet, a notebook, or call notes are enough. Do not start with opinions.
 2. Mark exactly one of the four outcomes.
-3. Add one row to the journal: what the business now knows that it did not know last Monday.
+3. Add one row to the journal: what the business now knows that it did not know last Monday, and what surprised us.
 4. Draft the next bet before people leave. "We will decide on Monday" means the Friday meeting did not finish.
 
 ## 9. Who shares the bet, and who only works inside it
@@ -254,6 +266,33 @@ Statuses are only: on plan, off plan, or still collecting data. Read the facts f
 
 When the links are visible, choose one constraint for the current cycle and one main metric for that constraint. The scorecard keeps only the numbers that change a decision. Every extra number spends the founder's attention.
 
+### Metric passport and eight checks
+
+Before a number enters the weekly scorecard, write a short passport. Start with the question this number answers. Then six fields:
+
+0. Question this number answers.
+1. Link to the bet.
+2. Role relative to the result: leading, lagging, or guardrail.
+3. Definition, formula, and source: what counts, what does not, the record source, and the definition version with its date.
+4. Action before the next meeting.
+5. Threshold, reaction rule, and decision.
+6. Owner and attention cost.
+
+Add strength of evidence: said, did, or paid. End with one verdict: keep on the weekly scorecard; diagnostic only; temporary 1–2 week scouting indicator; or drop.
+
+Do not drop a new metric after the first week. Check it for two or three weeks unless a guardrail fired.
+
+Eight short checks of a number:
+
+1. Does not explain contribution to the aim → remove.
+2. Does not predict the result → do not call it leading.
+3. Cannot move it before the meeting → not a weekly lever.
+4. Does not change decisions → stop paying attention time.
+5. Number rises while system worsens → add a guardrail metric.
+6. Constraint cleared → find the next one.
+7. Too little data → say unknown.
+8. Bet lost its meaning → change the bet, do not defend the plan.
+
 The advanced level is ready when three things are true:
 
 - you know which arrows are proved and which are still bets;
@@ -281,6 +320,8 @@ Advanced, only after that cycle has been lived:
 
 1. Extend the horizons with result, threshold, date, type, and how proved each line is.
 2. Map the arrows.
-3. Build the scorecard of 3 to 5 measures.
+3. Choose one constraint and fill the focus sheet.
+4. Write a metric passport before a number enters the scorecard.
+5. Build the scorecard of 3 to 5 measures.
 
 Blank sheets are in [templates/](../templates/). A filled classroom example is in [examples/subscription-lunches.md](../examples/subscription-lunches.md). Questions for an assistant are in [prompts/](../prompts/).

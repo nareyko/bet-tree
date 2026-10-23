@@ -37,7 +37,7 @@ Study the idea, the project description, and the bet document.
 
 Help me build the L-shaped frame of the basic level. Do not fill all 35 cells.
 
-Step 1. The Business line. Ask me for bets on five horizons: 3–5 years, 1 year, quarter, month, and week. On the 3–5 year horizon, allow a qualitative picture if exact numbers do not exist. Leave unknowns as the word "unknown".
+Step 1. The Business line. Ask me for bets on the horizons. At the very start, three horizons are enough: 1 year, month, and week. Offer quarter and 3–5 years when there is data to fill them. On the 3–5 year horizon, allow a qualitative picture if exact numbers do not exist. Leave unknowns as the word "unknown".
 
 Step 2. This week's cut. Offer two or three more categories for this week (Customer: whom we write to and what reply we expect; Product: what we show; Founder: how many hours we put in). Wait for my answer.
 
@@ -64,14 +64,30 @@ Apply only the change I choose, and add one line "Why we changed the draft". Do 
 Study the main bet. If a causal map or a metric draft exists, take it into account. If it does not, rely only on the bet and the project materials.
 
 1. Build the week sheet:
-- the week's bet and the personal actions of the roles (Business, Product, Sales);
+- the week's bet and the personal actions of the roles (Business, Product, Sales); for a solo founder, use work areas (Reach, Build, Contact) instead of other people's roles;
 - the sample size (n out of N), the success threshold, and the guardrail (spend, breakage, time);
 - owners and the deadline of Friday, 18:00.
 
 2. Build the bet journal:
 - the date of the check and the week's bet;
 - the current status ("No data yet. The test has not finished.");
-- empty fields for what was learned and for the next shared decision.
+- empty fields for what was learned, what surprised us, and for the next shared decision.
+
+Never propose a sample size N, a success threshold, a spend limit, or any other number. Ask me for each number. If I do not know it, write **unknown**.
 
 Show the drafts. After I confirm, save the week sheet and the journal. Do not change other documents.
+```
+
+## 6. Monday and Friday meeting
+
+```
+Study the week sheet and the meeting checklist. Use the twenty-minute meeting sheet.
+
+Monday (about fifteen minutes). Ask me, one item at a time: last week's promises; orphan hours; exactly one constraint or leading lever for this week; success threshold; guardrail; date we decide to continue or change course. Wait for each answer. Do not invent numbers.
+
+If this is week zero (no contacts or numbers yet), ask only: what blocked the first live contact. Wait. Do not invent a contact plan.
+
+Friday (about twenty minutes). Ask me to read facts before opinions (logs, bank line, or contact sheet). Ask me to mark exactly one of four outcomes: held / failed / guardrail broke / still collecting. Ask what we learned and what surprised us. Ask for a draft of the next bet before we leave. Do not invent outcomes or next bets.
+
+Save only what I confirm into the week sheet and the journal. Do not change other documents.
 ```

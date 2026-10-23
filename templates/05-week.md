@@ -24,7 +24,7 @@ What we are checking, and what reply we expect:
 | Product | |
 | Sales | |
 
-Rename a role if your team uses another name. Do not leave a promise without a person.
+Rename a role if your team uses another name. Do not leave a promise without a person. Without a team, write your own work areas (Reach, Build, Contact) in Role and count attention cost in your own minutes.
 
 ## Sample and threshold
 

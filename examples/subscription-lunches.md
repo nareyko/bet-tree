@@ -34,7 +34,7 @@ Illustration only. Far cells here are a classroom picture of bets before experie
 
 ## Why the signal is early in this example
 
-A paid subscription is weeks away: a trial week, an invoice, a payment. In this classroom story, interest can show in the first 48–72 hours (invented timing, not a method rule). If 100 showings produce 0 requests, the offer missed the pain, and the founder can change it on Friday instead of waiting for the month to end.
+A paid subscription is weeks away: a trial week, an invoice, a payment. In this classroom story, interest can show in the first 48–72 hours (invented timing, not a method rule). If 100 showings produce 0 requests, the offer missed the pain, and the founder can change it on the next Monday morning after seven days, instead of waiting for the month to end.
 
 ## Four outcomes, with this week's lines
 

@@ -6,17 +6,20 @@ Use only the Basic blanks for this example: bet, week sheet, journal, meeting ch
 
 ## Kind of future
 
-**Research project / value check.** The founder wants to know whether named people will take a next step after a short message. Revenue for the year stays **unknown**.
+Status: `research project / value check`. The founder wants to know whether named people will take a next step after a short message. Revenue for the year stays **unknown**.
 
-## L-frame (three horizons at the start)
+## L-frame (3–5 year Founder stake, then nearer bridges)
 
-| Horizon | Business bet (pre-evidence) |
+This week is a subproject under a longer stake. The living check is one week. The far cell here is Founder (the life the founder wants); Business revenue path stays unknown.
+
+| Horizon | Stake (pre-evidence) |
 | --- | --- |
-| 1 year | At least one paid step that the founder can name without borrowing a stranger's price |
+| 3–5 years (Founder) | Independent practice where paid expert work is a stable part of the founder's working life (qualitative picture) |
+| 1 year (Founder and Business bridge) | At least one paid step that the founder can name without borrowing a stranger's price |
 | Month | At least 2 clear yes/no replies from a planned sample of 5 named contacts |
 | Week | Send 5 personal messages; get at least 2 replies that name a next step or a clear refusal |
 
-Customer this week: five people the founder already knows by name. Product: one short offer sentence and a time window. Founder: at most 5 hours on outreach.
+Customer this week: five people the founder already knows by name. Product: one short offer sentence and a time window. Founder this week: at most 5 hours on outreach (serves the far Founder stake).
 
 Link to the month: if 2 of 5 reply with a next step or a clear refusal, the month sample continues with the same offer. If silence fills the sample, the offer sentence changes next week — not the product suite.
 

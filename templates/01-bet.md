@@ -16,7 +16,7 @@ Unknown:
 
 ## Kind of future and the price of the bet
 
-Kind of future (or "research project / value check"):
+Kind of future (or `research project / value check`):
 
 Result and date:
 
@@ -28,11 +28,16 @@ What I can lose:
 
 ## L-shaped frame
 
-At the start, three Business horizons are enough: 1 year, Month, Week. Leave Quarter and 3–5 years as **unknown** until you have something to write (a qualitative picture counts).
+Write a 3–5 year stake first on Business or on Founder (or both; a qualitative picture counts). Nest 1 year, Month, and Week under that far stake on the same spine. If this living effort is shorter than 3–5 years, name it as a subproject of that far stake. Quarter may stay unknown.
 
-### Business, from far to near
+### Far stake at 3–5 years (required; qualitative picture allowed)
 
-- 3–5 years:
+- Category for the far stake: Business, Founder, or both
+- 3–5 years (Business), if used:
+- 3–5 years (Founder), if used:
+
+### Spine from far to near (same category as the main far stake)
+
 - 1 year:
 - Quarter:
 - Month:
@@ -40,17 +45,17 @@ At the start, three Business horizons are enough: 1 year, Month, Week. Leave Qua
 
 ### This week, other categories
 
-Fill two or three. Customer: whom you write to, and what reply you expect. Product: what you show. Founder: how many hours you put in.
+Fill two or three that the week actually moves. Customer: whom you write to, and what reply you expect. Product: what you show. Add Business or Founder here if that side is not already the far spine.
 
 - Customer:
 - Product:
-- Founder:
+- Business or Founder (if not the spine):
 
 ### One link to the month
 
-How this week's result moves the Business result of the month:
+How this week's result moves the month on the spine category, and how that month still serves the 3–5 year stake:
 
-Status of that link: fact / bet / unknown
+Status of that link: fact, bet, or unknown
 
 ## Why we changed the draft
 

@@ -6,11 +6,11 @@ The funnel in the example starts from 100 showings and a price of 4,500 in the l
 
 ## Basic L-frame (reminder)
 
-The basic level does not fill the whole matrix. For a lived first week, prefer the three-horizon L-frame in [solo-expert-outreach](solo-expert-outreach.md). The Business row links the farthest written horizon to this week. The Week column collects the action: Customer, Product, and Founder.
+The basic level does not fill the whole matrix. For a lived first week, prefer the L-frame in [solo-expert-outreach](solo-expert-outreach.md): write a 3–5 year stake on Business or on Founder (or both), then nest nearer horizons under it. The Week column collects the action sides the week moves.
 
 ## Full matrix (Advanced illustration — not the basic L-frame)
 
-Illustration only. Far cells here are a classroom picture of bets before experience, not thresholds for a real kitchen. Early-stage practice still leaves empty far cells as **unknown** unless you write a qualitative picture.
+Illustration only. Far cells here are a classroom picture of bets before experience, not thresholds for a real kitchen. Other empty cells may stay **unknown**. At least one 3–5 year cell, Business or Founder, is written (a qualitative picture counts).
 
 | Category | 3–5 years | 1 year | Quarter | Month | Week |
 | --- | --- | --- | --- | --- | --- |

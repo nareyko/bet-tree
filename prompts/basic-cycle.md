@@ -11,9 +11,17 @@ Study the idea and the project description. Do not invent numbers or facts.
 
 First ask me: "In one sentence, whose life, and which concrete problem, do you want this service to make easier?" Wait for my answer.
 
-Then write one desired future in three versions: a forecast, a goal, and a bet. Do not label them.
+Then show a short labeled cheat sheet (keep it on screen; do not quiz me yet):
 
-Ask me to name the type of each sentence and wait. Then explain the differences and ask me to choose or rewrite the bet.
+- Wish: a picture of success with no deadline, no cost of being wrong, and no way to check.
+- Goal: a chosen state we move toward; it sets direction; it does not claim the path is known.
+- Plan: a schedule of steps for a road that is already known.
+- Forecast: the most likely scenario from facts we already have.
+- Bet: a checkable claim with an action we control, a numeric threshold, a deadline, and a cost of being wrong.
+
+Ask if the five words are clear. Wait. Only then write three labeled drafts for my case: Forecast, Goal, and Bet (and Wish only if I still mix hope into the bet). Leave sample sizes and thresholds as [n] / [N] / [X] for me to fill; do not invent numbers.
+
+Ask me to pick or rewrite the Bet. Wait. Do not ask me to guess unlabeled types.
 
 Write into the bet document only my chosen draft, the known basis, and what is unknown. Mark it as a first attempt. Do not change other documents.
 ```
@@ -25,7 +33,7 @@ Study the idea, the project description, and the current bet document.
 
 Ask me one question at a time: which kind of future I choose; which result and date I treat as the bet; why it matters; what I personally put in; what I can lose.
 
-If the kind of future is unclear, offer the status "research project / value check". If a number is unknown, leave the word "unknown". Do not propose a number in my place.
+If the kind of future is unclear, offer the status `research project / value check`. If a number is unknown, leave the word "unknown". Do not propose a number in my place.
 
 Show a short record and wait for confirmation. Then add a section "Kind of future and the price of the bet" to the bet document. Do not change other documents.
 ```
@@ -37,11 +45,11 @@ Study the idea, the project description, and the bet document.
 
 Help me build the L-shaped frame of the basic level. Do not fill all 35 cells.
 
-Step 1. The Business line. Ask me for bets on the horizons. At the very start, three horizons are enough: 1 year, month, and week. Offer quarter and 3–5 years when there is data to fill them. On the 3–5 year horizon, allow a qualitative picture if exact numbers do not exist. Leave unknowns as the word "unknown".
+Step 1. The far stake and spine. Ask whether my 3–5 year stake is on Business, on Founder, or on both. Require that far cell first (a qualitative picture is allowed if exact numbers do not exist). Then ask for 1 year, month, and week on that same spine so each nearer line serves the far stake. If my living project is only a year or a week, ask how it nests as a subproject under the 3–5 year stake. Quarter may stay the word "unknown". Do not leave both the Business and Founder 3–5 year cells blank.
 
-Step 2. This week's cut. Offer two or three more categories for this week (Customer: whom we write to and what reply we expect; Product: what we show; Founder: how many hours we put in). Wait for my answer.
+Step 2. This week's cut. Offer two or three more categories that the week actually moves (Customer: whom we write to and what reply we expect; Product: what we show). Add Business or Founder here if that side is not already the far spine. Wait for my answer.
 
-Step 3. The link. Ask one question: how this week's result moves the month's result in Business.
+Step 3. The link. Ask how this week's result moves the month on the spine category, and how that month still serves the 3–5 year stake.
 
 After I confirm, save the frame in the bet document under "L-shaped frame". Do not change other documents.
 ```
@@ -85,7 +93,7 @@ Study the week sheet and the meeting checklist.
 
 Monday morning (~20–25 minutes). First close the past seven days if a week already ran: facts before opinions; last week's promises; orphan hours; exactly one of four outcomes (held, failed, guardrail broke, or sample not there yet); journal row; read Friday's hypothesis list if any. Then open the next seven days: exactly one constraint; one leading lever; success threshold; guardrail; look date = next Monday morning. Ask me, one item at a time. Wait for each answer. Do not invent numbers.
 
-If this is the first Monday (nothing to judge yet), skip the close block and only open the first seven days.
+If this is the first Monday (nothing to close yet), skip the close block and only open the first seven days.
 
 If this is week zero (no contacts or numbers yet), ask: what blocked the first live contact. Then still write threshold, guardrail, and next Monday morning. Wait. Do not invent a contact plan.
 

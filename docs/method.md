@@ -26,7 +26,7 @@ A large business might be a company built for a very large market, a large busin
 
 A personal or expert business might be income with control of your own time, a small profitable company with a compact team, or a reputation, a high fee, and personal autonomy.
 
-If you are not sure yet, write the status **research project / value check** and choose the shape of the business after the first facts from the market. This choice is a starting mark, not a sentence.
+If you are not sure yet, write the status `research project / value check` and choose the shape of the business after the first facts from the market. This choice is a starting mark, not a sentence.
 
 With the type, write four things:
 
@@ -43,17 +43,19 @@ A far bet is not cut into pieces of a plan. It is restated as nearer bets that c
 
 | Horizon | Question |
 | --- | --- |
-| 3–5 years | What must this business become? |
+| 3–5 years | What must this business become, or what founder life and stance must hold? |
 | 1 year | What must be true for the far bet to stay reasonable? |
 | Quarter | Which important stage must be passed? |
 | Month | What must change in the next cycle? |
 | Week | What can be done and checked right now? |
 
-When the full Business spine is in use, the order is 3–5 years, then year, then quarter, then month, then week. The far horizon does not predict the future. It keeps short actions from losing their direction.
+When a full spine is in use, the order is 3–5 years, then year, then quarter, then month, then week. The far horizon does not predict the future. It keeps short actions from losing their direction.
 
-Early stage may keep three horizons: Week, Month, and a 1 year direction. That early L-frame is enough: Business on year, month, and week. Add Quarter and 3–5 years when you have something to write there — a qualitative picture counts; exact numbers are not required. Until then, leave those cells as **unknown**.
+Always write a 3–5 year stake before you run a living week. It may sit in Business (company, revenue, value) or in Founder (time, personal risk, the life you want), or in both when both matter. A qualitative picture is enough when exact numbers do not exist. Do not leave the far cell blank or as unknown to postpone direction. If the work in front of you is only a year, a month, or a week, nest it under that far stake: write the short effort as a nearer bet that serves the long one. A one-year project or a one-week check is then a subproject of the 3–5 year stake, not a tree with no far horizon.
 
-A week checks the farthest Business bet you actually wrote (1 year early; 3–5 years when that cell is open). It does not divide that bet by a calculator.
+Early stage may still leave Quarter as unknown until there is something to write. The early L-frame runs through the category of the far stake you wrote (Business or Founder): 3–5 years, then 1 year (or the written bridge to this cycle), then month, then week.
+
+A week checks that far stake, restated nearer. It does not divide the far claim by a calculator.
 
 ## 4. Seven categories
 
@@ -71,11 +73,11 @@ The future is not only revenue. The list is not closed. If a bet needs another c
 
 You do not fill every cell. There are five horizons and seven categories, which is thirty-five cells. The basic level uses an L-shaped frame instead:
 
-- one line through **Business**, from the farthest horizon you actually wrote down to this week (1 year early; 3–5 years when that cell is open);
-- a weekly cut for two or three other categories that the week actually moves, often Customer, Product, and Founder (early stage: write those on the week sheet even when the far Business cells stay **unknown**);
-- one link: how this week's result moves the month's Business result.
+- one line through the far-stake category (Business or Founder), from the 3–5 year cell down to this week (year and month as bridges; Quarter may stay unknown early);
+- a weekly cut for two or three other categories that the week actually moves (if the far stake is Founder, Business often appears on the week cut; if the far stake is Business, Founder often appears there);
+- one link: how this week's result moves the month in that spine category, and how that month still serves the 3–5 year stake.
 
-For the 3–5 year cell, a qualitative picture is allowed when exact numbers do not exist.
+For the 3–5 year cell, a qualitative picture is allowed when exact numbers do not exist. Other empty cells may stay unknown. At least one far cell, Business or Founder, is written.
 
 ## 5. Six working rules of the basic level
 
@@ -167,7 +169,7 @@ The week sheet is the team's contract for seven days. Before the work, write:
 1. **The week's bet.** What you are checking and what reply you expect.
 2. **Role actions.** Personal promises for seven days. A solo founder writes their own work areas (Reach, Build, Contact) instead of other people's roles.
 3. **Sample and threshold.** How many contacts (`n` out of `N`) and what number counts as a win.
-4. **Guardrail and deadline.** The limit of risk, and the time you will look at the result. In the teaching rhythm that time is **next Monday morning**, seven days after the plan is written.
+4. **Guardrail and deadline.** The limit of risk, and the time you will look at the result. In the teaching rhythm that time is next Monday morning, seven days after the plan is written.
 
 On that Monday morning you mark one of the four outcomes, write what you learned, and open the next seven-day sheet.
 
@@ -300,14 +302,14 @@ Do not drop a new metric after the first week. Check it for two or three weeks u
 
 Eight short checks of a number:
 
-1. Does not explain contribution to the aim → remove.
-2. Does not predict the result → do not call it leading.
-3. Cannot move it before the meeting → not a weekly lever.
-4. Does not change decisions → stop paying attention time.
-5. Number rises while system worsens → add a guardrail metric.
-6. Constraint cleared → find the next one.
-7. Too little data → say unknown.
-8. Bet lost its meaning → change the bet, do not defend the plan.
+1. Does not explain contribution to the aim: remove.
+2. Does not predict the result: do not call it leading.
+3. Cannot move it before the meeting: not a weekly lever.
+4. Does not change decisions: stop paying attention time.
+5. Number rises while system worsens: add a guardrail metric.
+6. Constraint cleared: find the next one.
+7. Too little data: say unknown.
+8. Bet lost its meaning: change the bet, do not defend the plan.
 
 The advanced level is ready when three things are true:
 
@@ -327,7 +329,7 @@ Basic, in one day of writing and then one week of doing:
 
 1. Write one desired future three ways: as a forecast, as a goal, and as a bet. Keep only the bet. Note what is known and what is unknown.
 2. Choose the kind of future and the price of the bet.
-3. Build the L-shaped frame. Early stage: three Business horizons (1 year, month, week) are enough; see §3.
+3. Build the L-shaped frame. Write the 3–5 year stake first on Business or Founder (or both; qualitative picture allowed). Nest nearer horizons under it; see §3.
 4. Read the draft against the six rules. Fix one weak spot, or mark it unknown.
 5. Write the week sheet and the first journal row.
 6. Do the week. On Friday morning, mid-week check only. On the next Monday morning, choose one outcome and write the next bet.

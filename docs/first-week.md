@@ -5,14 +5,22 @@ One page for a founder who has not lived a Bet Tree week yet. Read [the method](
 ## Before the first Monday morning
 
 1. Copy three blanks: [01-bet](../templates/01-bet.md), [05-week](../templates/05-week.md), [07-journal](../templates/07-journal.md).
-2. Keep [08-meeting](../templates/08-meeting.md) open for Monday morning and Friday morning.
-3. On the bet sheet, write one desired future three ways (forecast, goal, bet). Keep only the bet. Name what is known and what is unknown.
-4. Choose the kind of future, or write **research project / value check**. Write what you put in and what you can lose.
-5. Build a short L-frame. At the very start, three Business horizons are enough: 1 year, month, and week. Leave Quarter and 3–5 years as unknown until you have something to write (a qualitative picture counts). Write the word unknown in the cell.
-6. On the week sheet, write the week's bet and personal promises (or Reach, Build, Contact if you work alone).
-7. Add sample `n` out of `N`, success threshold, guardrail, and the hour you will look at the result. In the teaching rhythm that hour is **next Monday morning**, seven days later.
 
-Do not invent a number to fill a blank. Write **unknown**.
+2. Keep [08-meeting](../templates/08-meeting.md) open for Monday morning and Friday morning.
+
+3. On the bet sheet, write one desired future three ways (forecast, goal, bet). Keep only the bet. Name what is known and what is unknown.
+
+4. Choose the kind of future, or write `research project / value check`. Write what you put in and what you can lose.
+
+5. Build a short L-frame. Write a 3–5 year stake first on Business or on Founder (or both; a qualitative picture counts; exact numbers are not required).
+
+6. Then write 1 year, month, and week on that same spine so each nearer line serves the far stake. If this living effort is only a year or a week long, name it as a subproject under the 3–5 year stake. Quarter may stay unknown. Write unknown only where you still lack a picture; at least one 3–5 year cell, Business or Founder, is written.
+
+7. On the week sheet, write the week's bet and personal promises (or Reach, Build, Contact if you work alone).
+
+8. Add sample `n` out of `N`, success threshold, guardrail, and the hour you will look at the result. In the teaching rhythm that hour is next Monday morning, seven days later.
+
+Do not invent a number to fill a blank. Write **unknown**. The exception is the 3–5 year stake on Business or Founder: write a qualitative picture rather than postponing that cell.
 
 ## First Monday morning (~20–25 minutes)
 

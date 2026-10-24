@@ -40,17 +40,17 @@ Breakage limit:
 
 When we look and decide: next Monday morning (seven days)
 
-## Friday morning mid-check (no outcome)
+## Friday morning mid-week check (no outcome)
 
 Sample so far (`n` of `N`):
 
-Guardrail intact? (yes / no, what happened):
+Guardrail intact? (yes or no; what happened):
 
 Hypothesis options for Monday (list only, do not choose an outcome yet):
 
 ## Monday morning close (after seven days)
 
-Outcome (exactly one): held / failed / guardrail broke / sample not there yet
+Outcome (exactly one): held, failed, guardrail broke, or sample not there yet
 
 Fact:
 

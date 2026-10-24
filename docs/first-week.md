@@ -26,7 +26,7 @@ Do the actions you promised. Do not rewrite the threshold after you see early re
 
 ## Friday morning (~15–20 minutes)
 
-Mid-check only. Read facts. Note sample progress. Confirm the guardrail. List hypothesis options for Monday's possible paths. Do not mark one of the four outcomes. Do not change the threshold. Leave the options for the weekend.
+Mid-week check only. Read facts. Note sample progress. Confirm the guardrail. List hypothesis options for Monday's possible paths. Do not mark one of the four outcomes. Do not change the threshold. Leave the options for the weekend.
 
 ## Second Monday morning (~20–25 minutes)
 

@@ -6,7 +6,7 @@ Contact: vadim@nareyko.com · [github.com/nareyko/bet-tree](https://github.com/n
 
 ## What this is
 
-A founder writes a bet before the market has proved the idea. The week turns that bet into an action, an early customer signal, a success line, a safety line, and a Monday-morning decision after seven days. Friday morning is a mid-check. When one sheet is no longer enough, the same method opens a tree of linked claims.
+A founder writes a bet before the market has proved the idea. The week turns that bet into an action, an early customer signal, a success line, a safety line, and a Monday-morning decision after seven days. Friday morning is a mid-week check. When one sheet is no longer enough, the same method opens a tree of linked claims.
 
 Start with the [method](method.md), then [First week](first-week.md).
 

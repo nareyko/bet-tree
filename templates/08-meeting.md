@@ -6,12 +6,12 @@ Does not replace the week sheet or the journal. Use it to keep both slots short.
 
 ### Close the past seven days
 
-- [ ] Facts before opinions (logs, bank, or contact sheet / notebook / call notes)
+- [ ] Facts before opinions (logs, bank, or a contact sheet, notebook, or call notes)
 - [ ] Past promises: who, what, done or not
 - [ ] Orphan hours: last week's hours with no weekly promise and no category on last week's L-frame
-- [ ] Exactly one of four outcomes: held / failed / guardrail broke / sample not there yet
-- [ ] Journal row: what we learned + what surprised us
-- [ ] Read Friday's hypothesis list (if any); choose what to carry into this week's plan
+- [ ] Exactly one of four outcomes: held, failed, guardrail broke, or sample not there yet
+- [ ] Journal row: what we learned and what surprised us
+- [ ] Read Friday's hypothesis list (if any). Choose what to carry into this week's plan.
 
 ### Open the next seven days
 
@@ -26,10 +26,10 @@ Does not replace the week sheet or the journal. Use it to keep both slots short.
 - [ ] One barrier: what blocked the first live contact
 - [ ] Still write threshold, guardrail, and next Monday morning as the look date
 
-## Friday morning (~15–20 min) — mid-check, no decision
+## Friday morning (~15–20 min): mid-week check, no decision
 
 - [ ] Facts before opinions
 - [ ] Sample progress: `n` out of `N` so far (do not rewrite the threshold)
 - [ ] Guardrail still intact?
-- [ ] List hypothesis options for Monday (held path, failed path, repair path, finish-sample path) — options only, no chosen outcome
-- [ ] Leave the list for the weekend; the four-outcome mark waits for Monday morning
+- [ ] List hypothesis options for Monday (held path, failed path, repair path, finish-sample path). Options only. No chosen outcome.
+- [ ] Leave the list for the weekend. The four-outcome mark waits for Monday morning.

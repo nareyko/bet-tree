@@ -83,7 +83,7 @@ Show the drafts. After I confirm, save the week sheet and the journal. Do not ch
 ```
 Study the week sheet and the meeting checklist.
 
-Monday morning (~20–25 minutes). First close the past seven days if a week already ran: facts before opinions; last week's promises; orphan hours; exactly one of four outcomes (held / failed / guardrail broke / sample not there yet); journal row; read Friday's hypothesis list if any. Then open the next seven days: exactly one constraint; one leading lever; success threshold; guardrail; look date = next Monday morning. Ask me, one item at a time. Wait for each answer. Do not invent numbers.
+Monday morning (~20–25 minutes). First close the past seven days if a week already ran: facts before opinions; last week's promises; orphan hours; exactly one of four outcomes (held, failed, guardrail broke, or sample not there yet); journal row; read Friday's hypothesis list if any. Then open the next seven days: exactly one constraint; one leading lever; success threshold; guardrail; look date = next Monday morning. Ask me, one item at a time. Wait for each answer. Do not invent numbers.
 
 If this is the first Monday (nothing to judge yet), skip the close block and only open the first seven days.
 

@@ -10,7 +10,7 @@ A method for working with an uncertain future: from a bet on three to five years
 
 **Bet.** A measurable claim about an uncertain future. The founder chooses actions under that claim. A bet can fail. That failure can hurt. It is still more honest than treating a wish as a forecast, or an unknown as an established fact.
 
-A bet is not the same as an experiment. An experiment answers how the world works. A bet ties the check to personal action, a threshold, a loss limit, and a decision after **seven days**: continue or change course. In the teaching rhythm that decision sits on **Monday morning**, after a full week of work. Friday morning is a mid-check only. A bet aimed years ahead is still a bet: you restate it as nearer checks until a single week can test one of them.
+A bet is not the same as an experiment. An experiment answers how the world works. A bet ties the check to personal action, a threshold, a loss limit, and a decision after **seven days**: continue or change course. In the teaching rhythm that decision sits on **Monday morning**, after a full week of work. Friday morning is a mid-week check only. A bet aimed years ahead is still a bet: you restate it as nearer checks until a single week can test one of them.
 
 At the very first step, a measurable bet can be a plain event: for example, get a yes from at least 2 people out of 5 contacts. Revenue and percentages are not required when you have no customers yet.
 
@@ -210,7 +210,7 @@ Week zero is the week before measurements exist. If there are no contacts or num
 
 A solo person runs the meeting with a mentor, a conversation partner, or a written checklist.
 
-### Friday morning (~15–20 minutes) — mid-check only
+### Friday morning (~15–20 minutes): mid-week check only
 
 1. Read the facts from records. Prefer logs and the bank line when they exist. At the start, a contact sheet, a notebook, or call notes are enough. Do not start with opinions.
 2. Note sample progress (`n` of `N`). Do not rewrite the threshold.
@@ -330,7 +330,7 @@ Basic, in one day of writing and then one week of doing:
 3. Build the L-shaped frame. Early stage: three Business horizons (1 year, month, week) are enough; see §3.
 4. Read the draft against the six rules. Fix one weak spot, or mark it unknown.
 5. Write the week sheet and the first journal row.
-6. Do the week. On Friday morning, mid-check only. On the next Monday morning, choose one outcome and write the next bet.
+6. Do the week. On Friday morning, mid-week check only. On the next Monday morning, choose one outcome and write the next bet.
 
 Advanced, only after that cycle has been lived:
 

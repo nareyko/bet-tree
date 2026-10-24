@@ -32,7 +32,7 @@ Link to the month: if 2 of 5 reply with a next step or a clear refusal, the mont
 
 **Unknown.** Conversion to payment, fee level, and whether a second stranger will appear without a personal ask — all **unknown**.
 
-## Friday morning mid-check
+## Friday morning mid-week check
 
 Read facts and sample progress. List hypothesis options for Monday. Do not mark one of the four outcomes.
 

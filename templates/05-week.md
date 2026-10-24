@@ -1,6 +1,6 @@
 # Week sheet
 
-Contract for seven days. Write every line before the work starts.
+Contract for seven days. Write every line of the plan before the work starts. Close the sheet on the next Monday morning.
 
 ## Last week's promises
 
@@ -38,11 +38,17 @@ Spend limit:
 
 Breakage limit:
 
-When we look: Friday, 18:00
+When we look and decide: next Monday morning (seven days)
 
-Date we decide to continue or to change course:
+## Friday morning mid-check (no outcome)
 
-## Friday
+Sample so far (`n` of `N`):
+
+Guardrail intact? (yes / no, what happened):
+
+Hypothesis options for Monday (list only, do not choose an outcome yet):
+
+## Monday morning close (after seven days)
 
 Outcome (exactly one): held / failed / guardrail broke / sample not there yet
 
@@ -50,4 +56,4 @@ Fact:
 
 What we learned:
 
-Next bet:
+Next bet (draft on this meeting, after the outcome):

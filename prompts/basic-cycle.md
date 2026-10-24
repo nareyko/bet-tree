@@ -66,7 +66,7 @@ Study the main bet. Rely on the bet and the project materials. Use a causal map 
 1. Build the week sheet:
 - the week's bet and the personal actions of the roles (Business, Product, Sales); for a solo founder, use work areas (Reach, Build, Contact) instead of other people's roles;
 - the sample size (n out of N), the success threshold, and the guardrail (spend, breakage, time);
-- owners and the deadline of Friday, 18:00.
+- owners and the deadline of next Monday morning (seven days).
 
 2. Build the bet journal:
 - the date of the check and the week's bet;
@@ -78,16 +78,18 @@ Never propose a sample size N, a success threshold, a spend limit, or any other 
 Show the drafts. After I confirm, save the week sheet and the journal. Do not change other documents.
 ```
 
-## 6. Monday and Friday meeting
+## 6. Monday morning and Friday morning meeting
 
 ```
-Study the week sheet and the meeting checklist. Use the twenty-minute meeting sheet.
+Study the week sheet and the meeting checklist.
 
-Monday (about fifteen minutes). Ask me, one item at a time: last week's promises; orphan hours; exactly one constraint and one leading lever for this week; write success threshold; write guardrail; date we decide to continue or change course. Wait for each answer. Do not invent numbers.
+Monday morning (~20–25 minutes). First close the past seven days if a week already ran: facts before opinions; last week's promises; orphan hours; exactly one of four outcomes (held / failed / guardrail broke / sample not there yet); journal row; read Friday's hypothesis list if any. Then open the next seven days: exactly one constraint; one leading lever; success threshold; guardrail; look date = next Monday morning. Ask me, one item at a time. Wait for each answer. Do not invent numbers.
 
-If this is week zero (no contacts or numbers yet), ask only: what blocked the first live contact. Wait. Do not invent a contact plan.
+If this is the first Monday (nothing to judge yet), skip the close block and only open the first seven days.
 
-Friday (about twenty minutes). Ask me to read facts before opinions (logs, bank line, or contact sheet). Ask me to mark exactly one of four outcomes: held / failed / guardrail broke / still collecting. Ask what we learned and what surprised us. Ask for a draft of the next bet before we leave. Do not invent outcomes or next bets.
+If this is week zero (no contacts or numbers yet), ask: what blocked the first live contact. Then still write threshold, guardrail, and next Monday morning. Wait. Do not invent a contact plan.
+
+Friday morning (~15–20 minutes). Ask me to read facts before opinions. Ask for sample progress (n of N). Ask whether the guardrail still holds. Ask for a list of hypothesis options for Monday (held path, failed path, repair path, finish-sample path). Do not ask me to mark one of the four outcomes. Do not change the threshold. Do not invent options.
 
 Save only what I confirm into the week sheet and the journal. Do not change other documents.
 ```

@@ -30,7 +30,7 @@ Illustration only. Far cells here are a classroom picture of bets before experie
 
 **Sample and threshold.** 100 showings. Win line: at least 5 requests from the page and at least 3 trials.
 
-**Guardrail and deadline.** Spend at most 20,000. Form failures = 0. Call within 15 minutes. Look on Friday at 18:00.
+**Guardrail and deadline.** Spend at most 20,000. Form failures = 0. Call within 15 minutes. Look on next Monday morning (seven days).
 
 ## Why the signal is early in this example
 
@@ -47,7 +47,7 @@ A paid subscription is weeks away: a trial week, an invoice, a payment. In this 
 
 ## A journal row from the teaching story
 
-Week 1 starts with no customer behavior yet. The result cell says there is no data yet. Arguments about architecture, before any customer has acted, are guesses. The decision is to run 100 showings by Thursday and on Friday read the week-sheet facts and mark one of the four outcomes.
+Week 1 starts with no customer behavior yet. The result cell says there is no data yet. Arguments about architecture, before any customer has acted, are guesses. The decision is to run 100 showings across the seven days and on the next Monday morning read the week-sheet facts and mark one of the four outcomes.
 
 A later teaching row: the bet was that a call within 15 minutes would yield at least 3 trials from 5 requests. The fact was 0 trials from 5 requests, because the calls went out after 4 hours. What was learned in the story: the customer cools within 30 minutes (classroom invention), so speed of contact is the constraint. The decision: connect the bot within 2 hours and call within 5 minutes.
 

@@ -12,9 +12,9 @@ Author: Vadim Nareyko (vadim@nareyko.com, github.com/nareyko).
 
 1. Skim [the method](docs/method.md), sections 1–8 (basic cycle). Leave advanced sections for later.
 2. Read [First week](docs/first-week.md).
-3. Copy the **Basic** blanks: [01-bet](templates/01-bet.md), [05-week](templates/05-week.md), [07-journal](templates/07-journal.md). Keep [08-meeting](templates/08-meeting.md) open for Monday and Friday.
+3. Copy the **Basic** blanks: [01-bet](templates/01-bet.md), [05-week](templates/05-week.md), [07-journal](templates/07-journal.md). Keep [08-meeting](templates/08-meeting.md) open for Monday morning and Friday morning.
 4. Fill one week. Leave unknown things written as **unknown**.
-5. On Friday, record one of four outcomes and write the next bet.
+5. After seven days, on Monday morning, record one of four outcomes and write the next bet. Friday morning is a mid-check only.
 
 Do not open the Advanced sheets (02–04, 06) until one basic week has been lived.
 

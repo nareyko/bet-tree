@@ -10,7 +10,7 @@ A method for working with an uncertain future: from a bet on three to five years
 
 **Bet.** A measurable claim about an uncertain future. The founder chooses actions under that claim. A bet can fail. That failure can hurt. It is still more honest than treating a wish as a forecast, or an unknown as an established fact.
 
-A bet is not the same as an experiment. An experiment answers how the world works. A bet ties the check to personal action, a threshold, a loss limit, and a Friday decision: continue or change course. That Friday look at the facts belongs to the weekly check. A bet aimed years ahead is still a bet: you restate it as nearer checks until a single week can test one of them.
+A bet is not the same as an experiment. An experiment answers how the world works. A bet ties the check to personal action, a threshold, a loss limit, and a decision after **seven days**: continue or change course. In the teaching rhythm that decision sits on **Monday morning**, after a full week of work. Friday morning is a mid-check only. A bet aimed years ahead is still a bet: you restate it as nearer checks until a single week can test one of them.
 
 At the very first step, a measurable bet can be a plain event: for example, get a yes from at least 2 people out of 5 contacts. Revenue and percentages are not required when you have no customers yet.
 
@@ -125,7 +125,7 @@ Do not confuse your effort with the market's reply.
 
 **Early signal** is the first physical step a customer takes: a click, a request, a yes to a call, a yes to a test.
 
-The signal is called early for two reasons. Money often comes weeks later, after a trial, an invoice, and a payment. And if nobody replies, you can change the offer on Friday of the first week instead of waiting for the end of the month.
+The signal is called early for two reasons. Money often comes weeks later, after a trial, an invoice, and a payment. And if nobody replies, you can change the offer on the next Monday morning after seven days, instead of waiting for the end of the month.
 
 Between the action and the money sits a chain of delays. To get a reply by the end of this cycle, take the first team action at the start of the week. A late start pushes the outcome into the next cycle.
 
@@ -145,7 +145,7 @@ The threshold says how much you need in order to call it a win. The guardrail sa
 
 ### Four outcomes
 
-At the end of the week the founder chooses one outcome from the facts. A confirmation and a refutation are equally valuable: both are market knowledge.
+After **seven days** the founder chooses one outcome from the facts, on Monday morning. A confirmation and a refutation are equally valuable: both are market knowledge. Friday morning may list options. It does not mark the outcome.
 
 | What happened | Decision for next week |
 | --- | --- |
@@ -167,9 +167,9 @@ The week sheet is the team's contract for seven days. Before the work, write:
 1. **The week's bet.** What you are checking and what reply you expect.
 2. **Role actions.** Personal promises for seven days. A solo founder writes their own work areas (Reach, Build, Contact) instead of other people's roles.
 3. **Sample and threshold.** How many contacts (`n` out of `N`) and what number counts as a win.
-4. **Guardrail and deadline.** The limit of risk, and the time you will look at the result. In the teaching rhythm that time is Friday at 18:00.
+4. **Guardrail and deadline.** The limit of risk, and the time you will look at the result. In the teaching rhythm that time is **next Monday morning**, seven days after the plan is written.
 
-On Friday you mark one of the four outcomes, write what you learned, and name the next decision.
+On that Monday morning you mark one of the four outcomes, write what you learned, and open the next seven-day sheet.
 
 ### Bet journal
 
@@ -181,28 +181,44 @@ A number records the week's fact. The sentence "what we learned" is what stops t
 
 Write a row every week after you have looked at the facts. Before any evidence exists, the result cell says that there is no data yet.
 
-## 8. A twenty-minute meeting
+## 8. Two morning meetings
 
-Monday, about fifteen minutes, with the people who own the week's promises:
+Both slots sit in the **morning**. The hard decision waits for a full seven days.
 
-1. Read last week's promises: who, what, and whether it was done.
-2. Mark the hours from last week that touched no weekly promise and no category on **last week's** L-frame. Those hours are orphans. (After a lived week, the Advanced map can name the same orphans against branches.)
-3. Name exactly one constraint. If the room names three "main problems", none has been chosen.
-4. Name one leading lever for the week: a physical action, or a customer step, that this team can move in seven days. Revenue is a result. Do not manage the week by a revenue wish.
-5. Write the success number before the work starts.
-6. Write the guardrail.
-7. Write the date on which you will decide to continue or to change course.
+### Monday morning (~20–25 minutes) — judge, then plan
 
-Week zero is the week before measurements exist. If there are no contacts or numbers yet, the twenty-minute meeting reviews one barrier: what blocked the first live contact.
+With the people who own the week's promises:
 
-A solo person runs the twenty-minute meeting with a mentor, a conversation partner, or a written checklist.
+**Close the past seven days**
 
-Friday, about twenty minutes:
+1. Read the facts from records before opinions.
+2. Read last week's promises: who, what, and whether it was done.
+3. Mark the hours from last week that touched no weekly promise and no category on **last week's** L-frame. Those hours are orphans. (After a lived week, the Advanced map can name the same orphans against branches.)
+4. Mark exactly one of the four outcomes.
+5. Add one row to the journal: what the business now knows that it did not know seven days ago, and what surprised us.
+6. Read Friday's hypothesis list if one exists. Choose what enters this week's plan.
+
+**Open the next seven days**
+
+7. Name exactly one constraint. If the room names three "main problems", none has been chosen.
+8. Name one leading lever for the week: a physical action, or a customer step, that this team can move in seven days. Revenue is a result. Do not manage the week by a revenue wish.
+9. Write the success number before the work starts.
+10. Write the guardrail.
+11. Write the look date: **next Monday morning**.
+
+Week zero is the week before measurements exist. If there are no contacts or numbers yet, the Monday meeting reviews one barrier: what blocked the first live contact. Then it still writes threshold, guardrail, and next Monday morning. On the first Monday there is nothing to judge yet: skip the close block and open the first seven days only.
+
+A solo person runs the meeting with a mentor, a conversation partner, or a written checklist.
+
+### Friday morning (~15–20 minutes) — mid-check only
 
 1. Read the facts from records. Prefer logs and the bank line when they exist. At the start, a contact sheet, a notebook, or call notes are enough. Do not start with opinions.
-2. Mark exactly one of the four outcomes.
-3. Add one row to the journal: what the business now knows that it did not know last Monday, and what surprised us.
-4. Draft the next bet before people leave. "We will decide on Monday" means the Friday meeting did not finish.
+2. Note sample progress (`n` of `N`). Do not rewrite the threshold.
+3. Check that the guardrail still holds.
+4. List hypothesis options for Monday (paths if held, failed, repair, or finish-sample). Do **not** mark one of the four outcomes.
+5. Leave the list for the weekend. The outcome and the next bet wait for Monday morning.
+
+Turning Friday into a decision meeting shortens the seven-day check.
 
 ## 9. Who shares the bet, and who only works inside it
 
@@ -314,7 +330,7 @@ Basic, in one day of writing and then one week of doing:
 3. Build the L-shaped frame. Early stage: three Business horizons (1 year, month, week) are enough; see §3.
 4. Read the draft against the six rules. Fix one weak spot, or mark it unknown.
 5. Write the week sheet and the first journal row.
-6. Do the week. On Friday, choose one outcome and write the next bet.
+6. Do the week. On Friday morning, mid-check only. On the next Monday morning, choose one outcome and write the next bet.
 
 Advanced, only after that cycle has been lived:
 

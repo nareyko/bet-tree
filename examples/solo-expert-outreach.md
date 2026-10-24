@@ -22,19 +22,23 @@ Link to the month: if 2 of 5 reply with a next step or a clear refusal, the mont
 
 ## Week contract
 
-**Bet.** If I send one clear offer to 5 named contacts this week, at least 2 will reply with a next step or a refusal in their own words by Friday 18:00.
+**Bet.** If I send one clear offer to 5 named contacts this week, at least 2 will reply with a next step or a refusal in their own words by next Monday morning.
 
 **Actions.** Reach: send 5 messages. Build: keep the offer to one sentence. Contact: answer each reply the same day.
 
 **Sample and threshold.** `n` = 5 out of `N` = 5. Win: at least 2 replies with a next step or a clear refusal (not silence).
 
-**Guardrail.** Spend 0 on ads. Do not invent a price in the message unless the contact asks. Look on Friday at 18:00.
+**Guardrail.** Spend 0 on ads. Do not invent a price in the message unless the contact asks. Look on next Monday morning (seven days).
 
 **Unknown.** Conversion to payment, fee level, and whether a second stranger will appear without a personal ask — all **unknown**.
 
-## Friday
+## Friday morning mid-check
 
-Mark one outcome from the four in the method. Write what you learned and what surprised you. Draft next week's bet before you leave. Do not treat classroom numbers as your market.
+Read facts and sample progress. List hypothesis options for Monday. Do not mark one of the four outcomes.
+
+## Next Monday morning
+
+Mark one outcome from the four in the method. Write what you learned and what surprised you. Then write next week's bet. Do not treat classroom numbers as your market.
 
 ## What this example is not
 

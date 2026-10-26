@@ -4,6 +4,8 @@ Use these with an assistant that can read your project files. The assistant asks
 
 Replace the file names if you keep the sheets somewhere else. The names below match [templates/](../templates/).
 
+**Portfolio gate:** if you have several living subprojects under one 3–5 year Business or Founder stake, stop here and run [portfolio.md](portfolio.md) with blank [09](../templates/09-portfolio-cycle-map.md) first. Come back to this file for the **main** line only.
+
 ## 1. Forecast, goal, or bet
 
 ```

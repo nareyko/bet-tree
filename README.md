@@ -20,6 +20,14 @@ Do not open the Advanced sheets (02–04, 06) until one basic week has been live
 
 If you work with an assistant that follows written instructions, the prompts in [prompts/](prompts/) ask the questions and wait for your answers. They do not choose the numbers for you.
 
+### Agent pack
+
+- Cursor skill: [.cursor/skills/bet-tree/SKILL.md](.cursor/skills/bet-tree/SKILL.md)
+- Prompt scripts: [prompts/basic-cycle.md](prompts/basic-cycle.md), [prompts/portfolio.md](prompts/portfolio.md), [prompts/advanced.md](prompts/advanced.md)
+- How to wire an assistant (and file tool-surface): [docs/agent.md](docs/agent.md)
+
+Start here above stays on the four basic blanks. Portfolio prompts are optional after you feel the week sheet no longer shows which subproject owns Monday.
+
 ## What this method is not
 
 Short version below. Full name page: [docs/name.md](docs/name.md).

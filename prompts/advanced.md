@@ -2,6 +2,8 @@
 
 Use these only after a basic week has been lived. The assistant does not invent numbers. Unknown stays **unknown**.
 
+If several subprojects share one long bet, keep advanced sheets on the **main** line (or the subproject that owns Monday). Roles and attention quotas stay in [portfolio.md](portfolio.md) and blank 09.
+
 ## 1. Horizons
 
 ```

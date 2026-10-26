@@ -99,7 +99,7 @@ If this is the first Monday (nothing to close yet), skip the close block and onl
 
 If this is week zero (no contacts or numbers yet), ask: what blocked the first live contact. Then still write threshold, guardrail, and next Monday morning. Wait. Do not invent a contact plan.
 
-Friday morning (~15–20 minutes). Ask me to read facts before opinions. Ask for sample progress (n of N). Ask whether the guardrail still holds. Ask for a list of hypothesis options for Monday (held path, failed path, repair path, finish-sample path). Do not ask me to mark one of the four outcomes. Do not change the threshold. Do not invent options.
+Friday morning (~15–20 minutes). Ask one item at a time and wait after each answer: facts before opinions; sample progress (n of N); whether the guardrail still holds; then a list of hypothesis options for Monday (held path, failed path, repair path, finish-sample path). Do not ask me to mark one of the four outcomes. Do not change the threshold. Do not invent options.
 
 Save only what I confirm into the week sheet and the journal. Do not change other documents.
 ```

@@ -55,6 +55,15 @@ Blank sheets in [templates/](templates/).
 7. [04-passport.md](templates/04-passport.md): metric passport before the scorecard
 8. [06-board.md](templates/06-board.md): weekly scorecard
 
+**Print pack** (same four basic blanks as one A4 set): [print-sheets.html](templates/print-sheets.html). Open in a browser and print. Not required for the first week if you already use the markdown blanks.
+
+**Portfolio** (several subprojects under one long bet; optional after the basic cycle is lived):
+
+9. [09-portfolio-cycle-map.md](templates/09-portfolio-cycle-map.md): roles main, parallel, background on one sheet
+10. [10-subproject-checklist.md](templates/10-subproject-checklist.md): nesting check so a subproject still hangs from the long bet
+
+Portfolio blanks are not part of Start here. Use them when one week sheet no longer shows which subproject owns the Monday slot.
+
 ## Two levels
 
 | Level | Use it when | You finish with |

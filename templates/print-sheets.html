@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Bet Tree — first-meeting sheets</title>
+<style>
+  :root {
+    --ink: #1a1a1a;
+    --muted: #555;
+    --line: #bbb;
+    --fill: #f7f6f3;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    color: var(--ink);
+    font: 11pt/1.35 "Iowan Old Style", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    background: #fff;
+  }
+  .page {
+    max-width: 210mm;
+    margin: 0 auto;
+    padding: 12mm 14mm;
+  }
+  h1 {
+    font-size: 16pt;
+    font-weight: 600;
+    margin: 0 0 2mm;
+    letter-spacing: 0.02em;
+  }
+  .sub {
+    color: var(--muted);
+    font-size: 9pt;
+    margin: 0 0 6mm;
+  }
+  h2 {
+    font-size: 11pt;
+    font-weight: 600;
+    margin: 5mm 0 2mm;
+    padding-bottom: 1mm;
+    border-bottom: 1px solid var(--ink);
+  }
+  h3 {
+    font-size: 10pt;
+    font-weight: 600;
+    margin: 3mm 0 1.5mm;
+    color: var(--muted);
+  }
+  p, li { margin: 0 0 1.5mm; }
+  ul { margin: 0 0 2mm; padding-left: 4.5mm; }
+  .field {
+    border-bottom: 1px solid var(--line);
+    min-height: 5.5mm;
+    margin: 1mm 0 2mm;
+  }
+  .field.tall { min-height: 10mm; }
+  .row {
+    display: flex;
+    gap: 4mm;
+  }
+  .row > * { flex: 1; }
+  label {
+    display: block;
+    font-size: 8.5pt;
+    color: var(--muted);
+    margin-bottom: 0.5mm;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 9.5pt;
+    margin: 1mm 0 2mm;
+  }
+  th, td {
+    border: 1px solid var(--line);
+    padding: 2mm 2.5mm;
+    text-align: left;
+    vertical-align: top;
+  }
+  th { background: var(--fill); font-weight: 600; }
+  td { height: 7mm; }
+  .check { list-style: none; padding-left: 0; }
+  .check li {
+    padding-left: 6mm;
+    position: relative;
+    margin-bottom: 1.2mm;
+  }
+  .check li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.3mm;
+    width: 3.2mm;
+    height: 3.2mm;
+    border: 1px solid var(--ink);
+  }
+  .cols {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5mm;
+  }
+  .note {
+    font-size: 8.5pt;
+    color: var(--muted);
+    margin-top: 2mm;
+  }
+  @media print {
+    body { background: #fff; }
+    .page { padding: 8mm 10mm; max-width: none; }
+    h2 { break-after: avoid; }
+    .sheet { break-inside: avoid; }
+  }
+  @page { size: A4; margin: 10mm; }
+</style>
+</head>
+<body>
+<div class="page">
+  <h1>The Bet Tree</h1>
+  <p class="sub">Live meeting set: Bet, Week sheet, Journal, 20-minute checklist. Blank fields. Do not fill with numbers from someone else's example.</p>
+
+  <div class="sheet">
+    <h2>1. Bet</h2>
+    <div class="row">
+      <div><label>Forecast</label><div class="field"></div></div>
+      <div><label>Goal</label><div class="field"></div></div>
+      <div><label>Bet (keep this)</label><div class="field"></div></div>
+    </div>
+    <div class="row">
+      <div><label>Known basis</label><div class="field tall"></div></div>
+      <div><label>Unknown</label><div class="field tall"></div></div>
+    </div>
+    <div class="row">
+      <div><label>Kind of future / price of the bet</label><div class="field"></div></div>
+      <div><label>Result and date</label><div class="field"></div></div>
+    </div>
+    <h3>L-frame: Business</h3>
+    <div class="row">
+      <div><label>3–5 years</label><div class="field"></div></div>
+      <div><label>1 year</label><div class="field"></div></div>
+      <div><label>Quarter</label><div class="field"></div></div>
+      <div><label>Month</label><div class="field"></div></div>
+      <div><label>Week</label><div class="field"></div></div>
+    </div>
+    <div class="row">
+      <div><label>Customer (week)</label><div class="field"></div></div>
+      <div><label>Product</label><div class="field"></div></div>
+      <div><label>Founder</label><div class="field"></div></div>
+    </div>
+    <label>Link to the month (fact / bet / unknown)</label>
+    <div class="field"></div>
+  </div>
+
+  <div class="sheet">
+    <h2>2. Week sheet</h2>
+    <label>Week's bet and expected reply</label>
+    <div class="field tall"></div>
+    <table>
+      <thead><tr><th>Role / work area</th><th>Promise for 7 days</th><th>Who</th></tr></thead>
+      <tbody>
+        <tr><td></td><td></td><td></td></tr>
+        <tr><td></td><td></td><td></td></tr>
+        <tr><td></td><td></td><td></td></tr>
+      </tbody>
+    </table>
+    <div class="row">
+      <div><label>Sample n of N</label><div class="field"></div></div>
+      <div><label>Success threshold</label><div class="field"></div></div>
+      <div><label>Guardrail</label><div class="field"></div></div>
+      <div><label>Course decision: next Monday morning</label><div class="field"></div></div>
+    </div>
+    <h3>Friday morning mid-week check (no outcome)</h3>
+    <div class="row">
+      <div><label>Sample so far (n of N)</label><div class="field"></div></div>
+      <div><label>Guardrail intact?</label><div class="field"></div></div>
+      <div><label>Hypothesis options for Monday (list only)</label><div class="field tall"></div></div>
+    </div>
+    <h3>Monday morning close (after seven days)</h3>
+    <div class="row">
+      <div><label>Outcome (one of four)</label><div class="field"></div></div>
+      <div><label>Fact</label><div class="field"></div></div>
+      <div><label>Next bet (draft)</label><div class="field"></div></div>
+    </div>
+    <p class="note">Outcomes (Monday only): held, failed, guardrail broke, or sample not there yet. Friday morning is a mid-week check with no chosen outcome.</p>
+  </div>
+
+  <div class="cols">
+    <div class="sheet">
+      <h2>3. Journal</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Bet</th>
+            <th>Result</th>
+            <th>Learned</th>
+            <th>Surprised us</th>
+            <th>Decision</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+          <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+          <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="sheet">
+      <h2>4. 20-minute meeting</h2>
+      <h3>Monday morning (~20–25 min): judge, then plan</h3>
+      <ul class="check">
+        <li>Facts before opinions</li>
+        <li>Past promises: who, what, done or not</li>
+        <li>Orphan hours</li>
+        <li>Exactly one of four outcomes</li>
+        <li>Journal row: learned and what surprised us</li>
+        <li>Exactly one constraint and one leading lever</li>
+        <li>Threshold and guardrail before work</li>
+        <li>Course decision: next Monday morning</li>
+      </ul>
+      <h3>Week zero</h3>
+      <ul class="check">
+        <li>One barrier to the first live contact</li>
+        <li>Still write threshold, guardrail, and next Monday as look date</li>
+      </ul>
+      <h3>Friday morning (~15–20 min): mid-week check, no decision</h3>
+      <ul class="check">
+        <li>Facts before opinions</li>
+        <li>Sample progress (n of N); do not rewrite the threshold</li>
+        <li>Guardrail still intact?</li>
+        <li>List hypothesis options for Monday only; no chosen outcome</li>
+      </ul>
+    </div>
+  </div>
+</div>
+</body>
+</html>

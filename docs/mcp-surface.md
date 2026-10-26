@@ -11,7 +11,9 @@ Bet Tree v1 does **not** ship a custom MCP server binary. An agent with filesyst
 | `templates/09-portfolio-cycle-map.md` | Multi-subproject cycle roles |
 | `templates/10-subproject-checklist.md` | Nested board under the long bet |
 | `templates/print-sheets.html` | Printable basic set |
-| `.cursor/skills/bet-tree/SKILL.md` | Routing and hard rules |
+| `AGENTS.md` | Project rules for any agent |
+| `skills/bet-tree/SKILL.md` | Routing and hard rules (canon) |
+| `.cursor/skills/bet-tree`, `.claude/skills/bet-tree`, `.agents/skills/bet-tree` | Symlinks to the canon skill |
 | `docs/method.md` | Reference only; do not dump whole file |
 
 ## Tools (write)

@@ -9,6 +9,8 @@ description: >-
 
 # Bet Tree (agent skill)
 
+Canonical copy. Tool-specific paths under `.cursor/skills/`, `.claude/skills/`, and `.agents/skills/` point here.
+
 ## Hard rules
 
 1. Ask **one** question, then wait. Do not stack a questionnaire.
@@ -28,6 +30,7 @@ description: >-
 | Portfolio roles | `templates/09-portfolio-cycle-map.md` |
 | Nested subproject tree | `templates/10-subproject-checklist.md` |
 | Prompt scripts | `prompts/basic-cycle.md`, `prompts/portfolio.md`, `prompts/advanced.md` |
+| Project rules for any agent | `AGENTS.md` |
 | How to wire an agent | `docs/agent.md`, `docs/mcp-surface.md` |
 
 ## Routing

@@ -22,9 +22,11 @@ If you work with an assistant that follows written instructions, the prompts in 
 
 ### Agent pack
 
-- Cursor skill: [.cursor/skills/bet-tree/SKILL.md](.cursor/skills/bet-tree/SKILL.md)
+- Canon rules: [AGENTS.md](AGENTS.md)
+- Canon skill: [skills/bet-tree/SKILL.md](skills/bet-tree/SKILL.md) (symlinked into `.cursor/skills`, `.claude/skills`, `.agents/skills`)
+- Thin adapters: [CLAUDE.md](CLAUDE.md), [GEMINI.md](GEMINI.md), [.github/copilot-instructions.md](.github/copilot-instructions.md)
 - Prompt scripts: [prompts/basic-cycle.md](prompts/basic-cycle.md), [prompts/portfolio.md](prompts/portfolio.md), [prompts/advanced.md](prompts/advanced.md)
-- How to wire an assistant (and file tool-surface): [docs/agent.md](docs/agent.md)
+- Per-agent table and tool-surface: [docs/agent.md](docs/agent.md)
 
 Start here above stays on the four basic blanks. Portfolio prompts are optional after you feel the week sheet no longer shows which subproject owns Monday.
 
